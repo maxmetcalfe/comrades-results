@@ -1,6 +1,7 @@
 body {
   font-family : "Menlo";
   background-color: rgb(187, 200, 187);
+  text-align: center;
 }
 
 h1, h4 {
